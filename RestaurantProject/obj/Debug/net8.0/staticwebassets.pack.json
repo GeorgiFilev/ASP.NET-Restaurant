@@ -1,0 +1,317 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RestaurantProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RestaurantProject.x9jrflkebd.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\images\\3b4d46e9-7a05-4752-9d61-b6e02e6a2e3a_6453604f-427a-4888-9d64-d1ace2923244_pizza.jpg",
+      "PackagePath": "staticwebassets\\images\\3b4d46e9-7a05-4752-9d61-b6e02e6a2e3a_6453604f-427a-4888-9d64-d1ace2923244_pizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\images\\6453604f-427a-4888-9d64-d1ace2923244_pizza.jpg",
+      "PackagePath": "staticwebassets\\images\\6453604f-427a-4888-9d64-d1ace2923244_pizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\images\\6c08eb69-1c07-4248-8e05-69801d1313af_pizza.jpg",
+      "PackagePath": "staticwebassets\\images\\6c08eb69-1c07-4248-8e05-69801d1313af_pizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\images\\8785909e-043a-4f79-8902-cf8a90f36a48_367414973_996620358213867_6174010425273887503_n (2).jpg",
+      "PackagePath": "staticwebassets\\images\\8785909e-043a-4f79-8902-cf8a90f36a48_367414973_996620358213867_6174010425273887503_n (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\images\\beeftaco.jpg",
+      "PackagePath": "staticwebassets\\images\\beeftaco.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\images\\c6064a31-a368-4acd-bfad-730429a5a48c_pizza.jpg",
+      "PackagePath": "staticwebassets\\images\\c6064a31-a368-4acd-bfad-730429a5a48c_pizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\images\\chickentaco.jpg",
+      "PackagePath": "staticwebassets\\images\\chickentaco.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\images\\d88713e8-8acb-423c-9153-e0d98e4a6251_beeftaco.jpg",
+      "PackagePath": "staticwebassets\\images\\d88713e8-8acb-423c-9153-e0d98e4a6251_beeftaco.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\images\\d980b4f5-0454-48df-b89a-7a840d3d8cb8_pizza.jpg",
+      "PackagePath": "staticwebassets\\images\\d980b4f5-0454-48df-b89a-7a840d3d8cb8_pizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\images\\f2381840-17db-439f-9166-669a3d933f0c_pizza.jpg",
+      "PackagePath": "staticwebassets\\images\\f2381840-17db-439f-9166-669a3d933f0c_pizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\images\\fishtaco.jpg",
+      "PackagePath": "staticwebassets\\images\\fishtaco.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\images\\pizza.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DarlingX\\Desktop\\Georgi Filev\\ASP ,NET\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RestaurantProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RestaurantProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RestaurantProject.props",
+      "PackagePath": "build\\RestaurantProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RestaurantProject.props",
+      "PackagePath": "buildMultiTargeting\\RestaurantProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RestaurantProject.props",
+      "PackagePath": "buildTransitive\\RestaurantProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
